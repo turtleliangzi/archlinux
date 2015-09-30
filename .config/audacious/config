@@ -1,0 +1,49 @@
+
+[BlurScope]
+color=14758440
+
+[alsa]
+mixer-element=Master
+
+[aosd]
+decoration_code=2
+position_placement=3
+
+[audgui]
+equalizer_win=0,18,300,214
+filebrowser_win=0,18,700,450
+filesel_path=/mnt/Music/Songs
+info_win=0,18,540,338
+playlist_import_win=300,18,840,630
+playlist_path=file:///mnt/Music/Lyrics
+
+[gtkui]
+column_widths=10,275,175,10,173,175,10,100,36,10,275,275,275,10
+player_height=748
+player_width=1364
+player_x=0
+player_y=18
+show_remaining_time=TRUE
+
+[gtkui-layout]
+item0_name=Search Tool
+item0_pos=0,-1,-1,200,662
+item1_name=LyricWiki Plugin
+item1_pos=-1,0,18,1360,744
+item2_name=Playlist Manager
+item2_pos=-1,0,18,1360,744
+item3_name=Album Art
+item3_pos=-1,0,18,1360,744
+item4_name=Blur Scope
+item4_pos=-1,0,18,1360,744
+item5_name=OpenGL Spectrum Analyzer
+item5_pos=-1,0,18,1360,744
+item6_name=Spectrum Analyzer
+item6_pos=-1,0,18,1360,744
+item_count=7
+
+[notify]
+resident=TRUE
+
+[search-tool]
+path=/root/music
