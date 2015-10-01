@@ -1,0 +1,11 @@
+{
+    "server":"sg-189.hxg.cc",
+    "server_port":"57769",
+    "local_port":"1080",
+    "password":"8R8Ioo9j8e",
+    "method":"rc4-md5",
+    "remarks":"anta.hxg.cc:443",
+    "fast_open":false,
+    "timeout":300,
+    "workers":1
+}
