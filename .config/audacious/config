@@ -19,15 +19,15 @@ playlist_path=file:///mnt/Music/Lyrics
 
 [gtkui]
 column_widths=10,275,175,10,173,175,10,100,36,10,275,275,275,10
-player_height=748
-player_width=1364
+player_height=732
+player_width=1366
 player_x=0
 player_y=18
 show_remaining_time=TRUE
 
 [gtkui-layout]
 item0_name=Search Tool
-item0_pos=0,-1,-1,200,662
+item0_pos=0,-1,-1,200,636
 item1_name=LyricWiki Plugin
 item1_pos=-1,0,18,1360,744
 item2_name=Playlist Manager

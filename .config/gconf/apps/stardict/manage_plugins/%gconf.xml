@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="plugin_order_list" mtime="1444822435" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_qqwry.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_dictdotcn.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_espeak.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_xdxf_parsedata.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_powerword_parsedata.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_spell.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_wordnet_parsedata.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_wordnet.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_wiki_parsedata.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_html_parsedata.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/advertisement.so</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/usr/lib/stardict/plugins/stardict_man.so</stringvalue>
+		</li>
+	</entry>
+</gconf>

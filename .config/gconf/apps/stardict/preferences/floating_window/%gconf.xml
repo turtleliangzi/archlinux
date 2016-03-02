@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="lock" mtime="1444822478" type="bool" value="false"/>
+</gconf>

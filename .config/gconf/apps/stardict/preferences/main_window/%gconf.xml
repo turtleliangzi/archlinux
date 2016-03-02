@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="hpaned_pos" mtime="1444822482" type="int" value="285"/>
+	<entry name="window_height" mtime="1444822482" type="int" value="742"/>
+	<entry name="window_width" mtime="1444822482" type="int" value="1364"/>
+</gconf>

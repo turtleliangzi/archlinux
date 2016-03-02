@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="dict_default_group" mtime="1444822435" type="string">
+		<stringvalue>Default Group</stringvalue>
+	</entry>
+	<entry name="dict_config_xml" mtime="1444822435" type="string">
+		<stringvalue>&lt;dictgroup name=&quot;Default Group&quot;&gt;&lt;querydict&gt;&lt;localdict enable=&quot;true&quot; file=&quot;/usr/share/stardict/dic/stardict-dict/stardict-dict.ifo&quot;/&gt;&lt;virtualdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/stardict_qqwry.so&quot;/&gt;&lt;netdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/stardict_dictdotcn.so&quot;/&gt;&lt;virtualdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/advertisement.so&quot;/&gt;&lt;virtualdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/stardict_man.so&quot;/&gt;&lt;/querydict&gt;&lt;scandict&gt;&lt;localdict enable=&quot;true&quot; file=&quot;/usr/share/stardict/dic/stardict-dict/stardict-dict.ifo&quot;/&gt;&lt;virtualdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/stardict_qqwry.so&quot;/&gt;&lt;netdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/stardict_dictdotcn.so&quot;/&gt;&lt;virtualdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/advertisement.so&quot;/&gt;&lt;virtualdict enable=&quot;true&quot; id=&quot;/usr/lib/stardict/plugins/stardict_man.so&quot;/&gt;&lt;/scandict&gt;&lt;/dictgroup&gt;</stringvalue>
+	</entry>
+	<entry name="dict_order_list" mtime="1444822435" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/usr/share/stardict/dic/stardict-dict/stardict-dict.ifo</stringvalue>
+		</li>
+	</entry>
+</gconf>
